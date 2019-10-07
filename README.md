@@ -1,8 +1,8 @@
-#Latihan1
+# Latihan1
 
-Mengenal repository
+## Mengenal repository
 
-langkah-langkah penggunaan:
+### langkah-langkah penggunaan:
 1. Membuat repository local dg perintah `git init`
 2. menambahkan file kedalam repository local dg perintah `git add nama_file.ext`
 3. dst
